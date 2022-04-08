@@ -24,5 +24,6 @@
 .list:hover {
    color: #888;
    background-color: #fff;
+   line-height: 40px;
 }
 

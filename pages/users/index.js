@@ -1,7 +1,7 @@
 export default function Users() {
     return(
         <>
-        <p>users index</p>
+        <p className="title">users index</p>
         </>
     )
 }
