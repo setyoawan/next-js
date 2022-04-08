@@ -1,5 +1,7 @@
 .copy-right {
-    color: rgb(32, 149, 120);
+    position: absolute;
+    color:rgb(32, 149, 120);    ;
     text-align: center;
-    height: 100vh;    
+    bottom : 0;
+    width:100%;
 }
