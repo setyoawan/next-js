@@ -9,7 +9,7 @@ export default function Header() {
          <Link href='/'>Home</Link>
         </li>
         <li className={Styles.list}>
-         <Link href='/awan'>Awan</Link>
+         <Link href='/awan'>About</Link>
         </li>
         <li className={Styles.list}>
           <Link href='/users'>Users</Link>         

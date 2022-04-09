@@ -1,10 +1,12 @@
+import Layout from "../components/Layout/Layout";
+
 
 export default function Home() {
   return (
-    <>
-   
-    <p className='title'>welcome awp selamat siang</p>    
-   
+    <>  
+    <Layout pageTitle="Home Page">
+    <p className='title'>welcome awp selamat siang</p>       
+    </Layout>
     </>
   )
 }

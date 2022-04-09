@@ -3,9 +3,10 @@ import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
   return (
-    <Layout>
-      <Component {...pageProps} />
-    </Layout>
+    // dicomment karena ingin mengambil page title secara dinamis
+    // <Layout pageTitle='page title'>
+    // </Layout>
+    <Component {...pageProps} />
   )
 }
 
