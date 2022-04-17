@@ -1,0 +1,18 @@
+
+.header-text {
+    text-align: center;    
+}
+
+.single {
+    padding: 2px 16px;
+    background: #eaeaea;
+    display: block;    
+    border-left:8px solid #fff;
+    width: 50%;
+    margin: 0 auto 10px;    
+
+}
+
+.single:hover{
+    border-left: 7px solid rgb(32, 149, 120);
+}
